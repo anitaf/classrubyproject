@@ -1,0 +1,17 @@
+puts "Give me two numbers:"
+puts "A larger number..."
+num1 =gets.chomp.to_i
+
+
+
+if num1%num2 == 0 
+	puts "#{100}" is divisible by #{5}
+
+
+puts 100
+
+And a small number...
+
+puts = 5
+
+ puts NOT DIVISABLE!

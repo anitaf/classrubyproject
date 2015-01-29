@@ -1,0 +1,15 @@
+puts "Pick a number, between 1 andd 10"
+
+guess ==gets.chomp.to_i
+
+my number = "29"
+
+if guess ==my_ number
+
+	puts "Wow You're like..totally pyschic or something!"
+elsif  guess>=(my_number-5) && guess<=(my_number+5)
+else
+	puts "That's pretty close. But no cigar.
+	Anyway, there's no smoking in here."
+		
+end
